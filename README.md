@@ -21,8 +21,17 @@ Database setup:
 ### Video:
 [![Press click to watch the video]](https://drive.google.com/file/d/1BH1sl61-HhMJ5mRbCfJ762CNxRLFEHhH/view)
 
-* [Installation](#Installation)
+### Instalation:
 To install necessary dependencies (dotenv, inquirer, my.sql, console.table), run the following command: <br>
 `
 npm install
 ` 
+
+### License:
+MIT
+
+### LinkedIn profile:
+https://www.linkedin.com/in/sandu-corobcenco-527131165/
+
+### GitHub profile:
+https://github.com/SanduCorobcenco
