@@ -19,7 +19,7 @@ Database setup:
 ![Picture](./img/schema.png) 
 
 ### Video:
-[![Press click to watch the video]](https://drive.google.com/file/d/1hDFOTiCFxEzK7vorGDZLlVY81wpxXEox/view)
+[![Press click to watch the video]](https://drive.google.com/file/d/1BH1sl61-HhMJ5mRbCfJ762CNxRLFEHhH/view)
 
 ### Instalation:
 To install necessary dependencies (dotenv, inquirer, my.sql, console.table), run the following command: <br>
